@@ -1,7 +1,8 @@
 # Objetivo:
 
-    O programa foi feito para detectar erros nos dígitos de verificação do CPF (os dois últimos), bem como verificar se
-  o nono dígito é coerente com o estado onde o CPF foi feito.
+    O programa foi feito para detectar erros nos dígitos de verificação do CPF 
+    (os dois últimos), bem como verificar se o nono dígito é coerente com o 
+    estado onde o CPF foi feito.
   
  #Funcionamento:
  
